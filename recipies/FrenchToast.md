@@ -9,8 +9,8 @@
   - 牛乳 100ml
   - 卵 1個
   - 砂糖 大さじ1杯
-  - バター 10g
 
+- バター 10g
 - はちみつ
 
 ![材料](../images/FrenchToast_Cooking001.jpg)
